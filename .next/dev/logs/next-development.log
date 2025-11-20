@@ -1,0 +1,18 @@
+[00:00:04.207] Server  LOG      ✓ Ready in 2.8s
+[00:00:07.299] Server  LOG      ○ Compiling / ...
+[00:00:14.186] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:14.452] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:14.452] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:14.452] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763657932270}
+[00:00:25.630] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/recipe/199 color: rgb(120, 120, 120) color: inherit {"dp":"/recipe/[id]","o":"http://localhost:3000/recipe/199","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763657943360}
+[00:00:32.453] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763657950177}
+[00:03:09.227] Server  LOG      ✓ Compiled in 434ms
+[00:03:23.064] Server  LOG      ✓ Compiled in 229ms
+[00:04:15.747] Server  LOG      ✓ Compiled in 794ms
+[00:04:25.699] Server  LOG      ✓ Compiled in 232ms
+[00:04:38.042] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/recipe/1 color: rgb(120, 120, 120) color: inherit {"dp":"/recipe/[id]","o":"http://localhost:3000/recipe/1","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763658195821}
+[00:04:41.068] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763658198737}
+[00:04:45.511] Server  LOG      ✓ Compiled in 1042ms
+[00:07:22.335] Server  LOG      ✓ Compiled in 725ms
+[00:07:35.097] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/recipe/59 color: rgb(120, 120, 120) color: inherit {"dp":"/recipe/[id]","o":"http://localhost:3000/recipe/59","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763658372880}
+[00:07:38.081] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763658375760}
